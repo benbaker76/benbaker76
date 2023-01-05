@@ -60,6 +60,7 @@ Languages:
 <img style="margin: 0 10px" src="./images/perl.svg?raw=true" alt="Perl" height="25px" width="25px"></img>
 <img style="margin: 0 10px" src="./images/php.svg?raw=true" alt="PHP" height="25px" width="25px"></img>
 <img style="margin: 0 10px" src="./images/arm.svg?raw=true" alt="ARM ASM" height="25px" width="25px"></img>
+<img style="margin: 0 10px" src="./images/x86.svg?raw=true" alt="x86 ASM" height="25px" width="25px"></img>
 </span>
 
 <img align="right" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=benbaker76&show_icons=true&theme=default" />
@@ -92,11 +93,31 @@ APIs:
 <img style="margin: 0 10px" src="./images/rest.svg?raw=true" alt="Rest" height="25px" width="25px"></img>
 </span>
 
+Embedded:
+<span>
+<img style="margin: 0 10px" src="./images/microchip.svg?raw=true" alt="Microchip" height="25px" width="25px"></img>
+<img style="margin: 0 10px" src="./images/nordic.svg?raw=true" alt="Nordic Semiconductor" height="25px" width="25px"></img>
+</span>
+
 Machine Learning:
 <span>
 <img style="margin: 0 10px" src="./images/pytorch.svg?raw=true" alt="PyTorch" height="25px" width="25px"></img>
 <img style="margin: 0 10px" src="./images/fastai.svg?raw=true" alt="Fast.ai" height="25px" width="25px"></img>
 <img style="margin: 0 10px" src="./images/opencv.svg?raw=true" alt="OpenCV" height="25px" width="25px"></img>
+<img style="margin: 0 10px" src="./images/openai.svg?raw=true" alt="OpenAI" height="25px" width="25px"></img>
+</span>
+
+Reverse Engineering:
+<span>
+<img style="margin: 0 10px" src="./images/ida.svg?raw=true" alt="IDA Pro" height="25px" width="25px"></img>
+<img style="margin: 0 10px" src="./images/ghidra.svg?raw=true" alt="Ghidra" height="25px" width="25px"></img>
+</span>
+
+FPGA:
+<span>
+<img style="margin: 0 10px" src="./images/lattice.svg?raw=true" alt="Lattice Semiconductor" height="25px" width="25px"></img>
+<img style="margin: 0 10px" src="./images/xilinx.svg?raw=true" alt="Xilinx" height="25px" width="25px"></img>
+</span>
 
 Containers:
 <span>
