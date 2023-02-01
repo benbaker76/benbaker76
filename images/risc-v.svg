@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   viewBox="0 0 121.86699 121.86699"
+   id="svg24"
+   sodipodi:docname="risc-v.svg"
+   width="121.867"
+   height="121.867"
+   inkscape:version="1.2.2 (1:1.2.2+202212051552+b0a8486541)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs28" />
+  <sodipodi:namedview
+     id="namedview26"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="1.7883959"
+     inkscape:cx="366.25"
+     inkscape:cy="61.228053"
+     inkscape:window-width="1920"
+     inkscape:window-height="946"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg24" />
+  <title
+     id="title2">RISC-V logo</title>
+  <g
+     id="g327"
+     transform="translate(-0.03306162,0.20099838)">
+    <path
+       d="m 67.8992,38 c 0,17.675 -10.699104,33.725 -31.53696,37.4875 l 29.3904,34.8 2.659488,-3.735 L 121.35229,31.565 V -0.0225 H 35.290208 C 57.192608,2.12 67.887968,20.315 67.887968,37.99"
+       fill="#f3ab0d"
+       id="path4"
+       style="stroke-width:1.249" />
+    <path
+       d="m 82.8752,116.125 39.02496,-54.6125 v 59.975 H 78.96896 Z M 7.52096,59.3625 h 20.30496 c 14.95104,0 22.45152,-10.695 22.45152,-21.4125 0,-10.7225 -7.497984,-20.8875 -22.45152,-20.8875 H 0.03296 v 104.425 H 51.89984 L 7.52096,67.9375 v -8.57375"
+       id="path6"
+       style="fill:#283271;stroke-width:1.249" />
+  </g>
+  <metadata
+     id="metadata329">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>RISC-V logo</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>

@@ -52,15 +52,18 @@ Platforms:
 Languages:
 <span>
 <img style="margin: 0 10px" src="./images/go.svg?raw=true" alt="Go" height="25px" width="25px"></img>
+<img style="margin: 0 10px" src="./images/java.svg?raw=true" alt="Java" height="25px" width="25px"></img>
 <img style="margin: 0 10px" src="./images/javascript.svg?raw=true" alt="JavaScript" height="25px" width="25px"></img>
 <img style="margin: 0 10px" src="./images/cplusplus.svg?raw=true" alt="C++" height="25px" width="25px"></img>
 <img style="margin: 0 10px" src="./images/csharp.svg?raw=true" alt="C#" height="25px" width="25px"></img>
+<img style="margin: 0 10px" src="./images/vb-net.svg?raw=true" alt="VB.NET" height="25px" width="25px"></img>
 <img style="margin: 0 10px" src="./images/python.svg?raw=true" alt="Python" height="25px" width="25px"></img>
 <img style="margin: 0 10px" src="./images/objectivec.svg?raw=true" alt="Objective C" height="25px" width="25px"></img>
 <img style="margin: 0 10px" src="./images/perl.svg?raw=true" alt="Perl" height="25px" width="25px"></img>
 <img style="margin: 0 10px" src="./images/php.svg?raw=true" alt="PHP" height="25px" width="25px"></img>
 <img style="margin: 0 10px" src="./images/arm.svg?raw=true" alt="ARM ASM" height="25px" width="25px"></img>
 <img style="margin: 0 10px" src="./images/x86.svg?raw=true" alt="x86 ASM" height="25px" width="25px"></img>
+<img style="margin: 0 10px" src="./images/risc-v.svg?raw=true" alt="RISC-V" height="25px" width="25px"></img>
 </span>
 
 <img align="right" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=benbaker76&show_icons=true&theme=default" />
@@ -97,6 +100,8 @@ Embedded:
 <span>
 <img style="margin: 0 10px" src="./images/microchip.svg?raw=true" alt="Microchip" height="25px" width="25px"></img>
 <img style="margin: 0 10px" src="./images/nordic.svg?raw=true" alt="Nordic Semiconductor" height="25px" width="25px"></img>
+<img style="margin: 0 10px" src="./images/arm.svg?raw=true" alt="ARM" height="25px" width="25px"></img>
+<img style="margin: 0 10px" src="./images/risc-v.svg?raw=true" alt="RISC-V" height="25px" width="25px"></img>
 </span>
 
 Machine Learning:
@@ -141,6 +146,8 @@ DevOps:
 <img style="margin: 0 10px" src="./images/jenkins.svg?raw=true" alt="Jenkins" height="25px" width="25px"></img>
 <img style="margin: 0 10px" src="./images/ansible.svg?raw=true" alt="Ansible" height="25px" width="25px"></img>
 <img style="margin: 0 10px" src="./images/terraform.svg?raw=true" alt="Terraform" height="25px" width="25px"></img>
+<img style="margin: 0 10px" src="./images/vagrant.svg?raw=true" alt="Vagrant" height="25px" width="25px"></img>
+<img style="margin: 0 10px" src="./images/vault.svg?raw=true" alt="Vault" height="25px" width="25px"></img>
 <img style="margin: 0 10px" src="./images/prometheus.svg?raw=true" alt="Prometheus" height="25px" width="25px"></img>
 <img style="margin: 0 10px" src="./images/git.svg?raw=true" alt="Git" height="25px" width="25px"></img>
 <img style="margin: 0 10px" src="./images/linux.svg?raw=true" alt="Linux" height="25px" width="25px"></img>
