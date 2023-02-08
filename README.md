@@ -94,6 +94,10 @@ APIs:
 <img style="margin: 0 10px" src="./images/graphql.svg?raw=true" alt="GraphQL" height="25px" width="25px"></img>
 <img style="margin: 0 10px" src="./images/grpc.svg?raw=true" alt="gRPC" height="25px" width="25px"></img>
 <img style="margin: 0 10px" src="./images/rest.svg?raw=true" alt="Rest" height="25px" width="25px"></img>
+</span>
+
+Frameworks:
+<span>
 <img style="margin: 0 10px" src="./images/ebpf.svg?raw=true" alt="eBPF" height="25px" width="25px"></img>
 </span>
 
