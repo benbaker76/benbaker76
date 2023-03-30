@@ -96,6 +96,11 @@ APIs:
 <img style="margin: 0 10px" src="./images/rest.svg?raw=true" alt="Rest" height="25px" width="25px"></img>
 </span>
 
+Protocols:
+<span>
+<img style="margin: 0 10px" src="./images/bluetooth.svg?raw=true" alt="Bluetooth" height="25px" width="25px"></img>
+</span>
+
 Frameworks:
 <span>
 <img style="margin: 0 10px" src="./images/ebpf.svg?raw=true" alt="eBPF" height="25px" width="25px"></img>
