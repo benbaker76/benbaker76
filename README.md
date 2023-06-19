@@ -5,18 +5,22 @@
 </a>
 
 <a href="https://www.linkedin.com/in/benbaker76/" target="_blank">
-  <img style="margin: 0 4px" align="left" alt="Ben's LinkdeIN" width="24px" height="22px" src="./images/linkedin.svg?raw=true" />
+  <img style="margin: 0 4px" align="left" alt="Ben's LinkedIn" width="24px" height="22px" src="./images/linkedin.svg?raw=true" />
 </a>
 
 <a href="https://twitter.com/benbaker76" target="_blank">
   <img style="margin: 0 4px" align="left" alt="Ben Baker | Twitter" width="22px" height="22px" src="./images/twitter.svg?raw=true" />
 </a>
 
+<a href="https://github.com/sponsors/benbaker76" target="_blank">
+  <img style="margin: 0 4px" align="left" alt="Ben Baker | Sponsor" width="86px" height="24px" src="./images/github-sponsor.svg?raw=true" />
+</a>
+
 ![](https://visitor-badge.glitch.me/badge?page_id=benbaker76)
 
 <br />
 
-Hi, I'm **Ben Baker**, a DevOps / Software engineer 🚀 from Australia 🇦🇺 and living in USA 🇺🇸, currently, I'm looking for **NEW OPPORTUNITIES** in DevOps and software development roles (incl., Distributed, Microservice and Cloud-based systems). Beside's programming, I enjoy traveling and reading.
+Hi, I'm **Ben Baker**, a DevOps / Embedded / Software engineer 🚀 from Australia 🇦🇺 and living in USA 🇺🇸, currently, I'm looking for **NEW OPPORTUNITIES** in DevOps and software development roles (incl., Distributed, Microservice and Cloud-based systems). Beside's programming, I enjoy traveling and reading.
 
 <br />
 
@@ -24,19 +28,13 @@ Hi, I'm **Ben Baker**, a DevOps / Software engineer 🚀 from Australia 🇦🇺
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
 - 🌱 I’m currently practicing Golang and Micro Services;
-- 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@benbaker76](https://twitter.com/benbaker76);
+- 💬 Ask me about anything; I'm happy to help;
+- ℹ️ View my portfolio at https://baker76.com;
+- 📫 You can reach me [ben@baker76.com](mailto:ben@baker76.com);
 
 <br />
 
 **Industry Skills:**
-
-Cloud:
-<span>
-<img style="margin: 0 10px" src="./images/aws.svg?raw=true" alt="AWS" height="25px" width="25px"></img>
-<img style="margin: 0 10px" src="./images/azure.svg?raw=true" alt="Azure" height="25px" width="25px"></img>
-<img style="margin: 0 10px" src="./images/gcp.svg?raw=true" alt="GCP" height="25px" width="25px"></img>
-</span>
 
 Platforms:
 <span>
@@ -98,7 +96,11 @@ APIs:
 
 Protocols:
 <span>
+<img style="margin: 0 10px" src="./images/wifi.svg?raw=true" alt="WiFi" height="25px" width="25px"></img>
+<img style="margin: 0 10px" src="./images/usb.svg?raw=true" alt="USB" height="25px" width="25px"></img>
 <img style="margin: 0 10px" src="./images/bluetooth.svg?raw=true" alt="Bluetooth" height="25px" width="25px"></img>
+<img style="margin: 0 10px" src="./images/lora.svg?raw=true" alt="LoRa" height="25px" width="25px"></img>
+<img style="margin: 0 10px" src="./images/zigbee.svg?raw=true" alt="ZigBee" height="25px" width="25px"></img>
 </span>
 
 Frameworks:
@@ -134,6 +136,15 @@ FPGA:
 <img style="margin: 0 10px" src="./images/xilinx.svg?raw=true" alt="Xilinx" height="25px" width="25px"></img>
 </span>
 
+Cloud:
+<span>
+<img style="margin: 0 10px" src="./images/aws.svg?raw=true" alt="AWS" height="25px" width="25px"></img>
+<img style="margin: 0 10px" src="./images/eks.svg?raw=true" alt="EKS" height="25px" width="25px"></img>
+<img style="margin: 0 10px" src="./images/karpenter.svg?raw=true" alt="Karpenter" height="25px" width="25px"></img>
+<img style="margin: 0 10px" src="./images/azure.svg?raw=true" alt="Azure" height="25px" width="25px"></img>
+<img style="margin: 0 10px" src="./images/gcp.svg?raw=true" alt="GCP" height="25px" width="25px"></img>
+</span>
+
 Containers:
 <span>
 <img style="margin: 0 10px" src="./images/cncf.svg?raw=true" alt="CNCF" height="25px" width="25px"></img>
@@ -147,6 +158,7 @@ Containers:
 <img style="margin: 0 10px" src="./images/raft.svg?raw=true" alt="Raft" height="25px" width="25px"></img>
 <img style="margin: 0 10px" src="./images/coredns.svg?raw=true" alt="CoreDNS" height="25px" width="25px"></img>
 <img style="margin: 0 10px" src="./images/kubespray.svg?raw=true" alt="KubeSpray" height="25px" width="25px"></img>
+<img style="margin: 0 10px" src="./images/chaosmesh.svg?raw=true" alt="Chaos Mesh" height="25px" width="25px"></img>
 </span>
 
 DevOps:
@@ -160,6 +172,7 @@ DevOps:
 <img style="margin: 0 10px" src="./images/vault.svg?raw=true" alt="Vault" height="25px" width="25px"></img>
 <img style="margin: 0 10px" src="./images/prometheus.svg?raw=true" alt="Prometheus" height="25px" width="25px"></img>
 <img style="margin: 0 10px" src="./images/git.svg?raw=true" alt="Git" height="25px" width="25px"></img>
+<img style="margin: 0 10px" src="./images/github-actions.svg?raw=true" alt="Github Actions" height="25px" width="25px"></img>
 <img style="margin: 0 10px" src="./images/linux.svg?raw=true" alt="Linux" height="25px" width="25px"></img>
 <img style="margin: 0 10px" src="./images/bash.svg?raw=true" alt="Bash" height="25px" width="25px"></img>
 </span>

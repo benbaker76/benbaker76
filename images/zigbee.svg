@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="2500"
+   height="2500"
+   viewBox="0 0 256 256"
+   preserveAspectRatio="xMidYMid"
+   version="1.1"
+   id="svg1388"
+   sodipodi:docname="zigbee.svg"
+   inkscape:version="1.2.2 (1:1.2.2+202212051552+b0a8486541)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6" />
+  <sodipodi:namedview
+     id="namedview1390"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.22288006"
+     inkscape:cx="1866.4748"
+     inkscape:cy="1150.8432"
+     inkscape:window-width="1920"
+     inkscape:window-height="946"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1388"
+     inkscape:lockguides="false" />
+  <circle
+     style="fill:#ec0444;fill-opacity:1;stroke-width:0.1024;paint-order:markers fill stroke"
+     id="path703"
+     cx="128"
+     cy="128"
+     r="128" />
+  <path
+     d="M89.55 201.688c-.201-.301 29.214-32.728 63.648-66.56 34.134-33.832 63.147-63.75 63.247-63.75-1.104-23.49-18.371-34.835-33.932-36.743-9.838-2.008-82.623-4.618-123.984 1.807-7.724.93-15.447 1.948-23.25 3.21-.304.05-3.365 3.234-6.09 6.524-2.795 3.374-5.25 6.854-4.996 6.818a753.552 753.552 0 0 1 71.021-6.616 736.201 736.201 0 0 1 72.943.304c.502.402-27.206 31.122-61.34 64.553-33.932 33.33-64.652 64.15-67.664 67.764-.2 24.496 20.58 33.933 31.724 36.141 51.702 5.02 103.9 3.224 155.603-5.109 0 0 4.59-5.17 5.144-6.118.555-.948 4.53-6.898 4.403-6.88-49.594 7.07-99.158 9.264-148.184 6.562 1.074-.9 1.104-1.204 1.707-1.907z"
+     fill="#FFF"
+     id="path1386" />
+</svg>
