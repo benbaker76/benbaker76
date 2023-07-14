@@ -144,6 +144,7 @@ Cloud:
 <img style="margin: 0 10px" src="./images/karpenter.svg?raw=true" alt="Karpenter" height="25px" width="25px"></img>
 <img style="margin: 0 10px" src="./images/azure.svg?raw=true" alt="Azure" height="25px" width="25px"></img>
 <img style="margin: 0 10px" src="./images/gcp.svg?raw=true" alt="GCP" height="25px" width="25px"></img>
+<img style="margin: 0 10px" src="./images/nvidia.svg?raw=true" alt="nVidia GPU Operator" height="25px" width="25px"></img>
 </span>
 
 Containers:
