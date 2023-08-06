@@ -30,14 +30,15 @@
   <img style="margin: 0 4px" align="left" alt="Email" width="24px" height="20px" src="./images/mail.svg?raw=true" />
 </a>
 
-<a href="https://github.com/sponsors/benbaker76" target="_blank">
+<!-- <a href="https://github.com/sponsors/benbaker76" target="_blank">
   <img style="margin: 0 4px" align="left" alt="Sponsor" width="86px" height="24px" src="./images/github-sponsor.svg?raw=true" />
-</a>
+</a> -->
 
-<br />
 <br />
 
 <img align="right" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=benbaker76&show_icons=true&theme=default" />
+
+<br />
 
 Hi, I'm **Ben Baker**, a DevOps / Embedded / Software engineer 🚀 from Australia 🇦🇺 and living in USA 🇺🇸, currently, I'm interested in DevOps and software development roles (incl., Distributed, Microservice and Cloud-based systems). Beside's programming, I enjoy traveling and reading.
 
