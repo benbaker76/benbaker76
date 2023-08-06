@@ -34,12 +34,24 @@
   <img style="margin: 0 4px" align="left" alt="Sponsor" width="86px" height="24px" src="./images/github-sponsor.svg?raw=true" />
 </a> -->
 
-<br />
-
-<img style="margin: 4px 4px 4px 4px" align="right" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=benbaker76&show_icons=true&theme=default" />
-
-<br />
+<br>
+<br>
 
 Hi, I'm **Ben Baker**, a DevOps / Embedded / Software engineer 🚀 from Australia 🇦🇺 and living in USA 🇺🇸, currently, I'm interested in DevOps and software development roles (incl., Distributed, Microservice and Cloud-based systems). Beside's programming, I enjoy traveling and reading.
 
 Want to know more about me? Check out my [portfolio](https://baker76.com).
+
+## &#x1f4c8; GitHub Stats
+
+<br>
+
+<a href="https://github.com/braydoncoyer">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benbaker76&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<a href="https://github.com/braydoncoyer">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=benbaker76&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Ben's GitHub Stats" />
+</a>
+
+<br>
+<br>
