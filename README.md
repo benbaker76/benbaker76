@@ -36,7 +36,7 @@
 
 <br />
 
-<img align="right" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=benbaker76&show_icons=true&theme=default" />
+<img style="margin: 4px 4px 4px 4px" align="right" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=benbaker76&show_icons=true&theme=default" />
 
 <br />
 
