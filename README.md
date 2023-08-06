@@ -1,10 +1,5 @@
 <img style="margin: 0 0 16px 0" align="left" alt="Banner" width="100%" src="./images/banner.png?raw=true" />
 
-<br />
-<br />
-
-<img align="right" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=benbaker76&show_icons=true&theme=default" />
-
 ### Hey there <img src="https://github.githubassets.com/images/mona-loading-dark.gif" width="50px" height="50px"/>
 
 <a href="https://www.facebook.com/benbaker76/" target="_blank">
@@ -41,6 +36,8 @@
 
 <br />
 <br />
+
+<img align="right" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=benbaker76&show_icons=true&theme=default" />
 
 Hi, I'm **Ben Baker**, a DevOps / Embedded / Software engineer 🚀 from Australia 🇦🇺 and living in USA 🇺🇸, currently, I'm interested in DevOps and software development roles (incl., Distributed, Microservice and Cloud-based systems). Beside's programming, I enjoy traveling and reading.
 
