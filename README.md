@@ -50,7 +50,7 @@ Want to know more about me? Check out my [portfolio](https://baker76.com).
 </a>
 
 <a href="https://github.com/braydoncoyer">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=benbaker76&show_icons=true&theme=default" alt="Ben's GitHub Stats" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=benbaker76&show_icons=true&theme=default&hide_rank=true" alt="Ben's GitHub Stats" />
 </a>
 
 <br>
