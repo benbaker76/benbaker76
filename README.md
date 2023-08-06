@@ -1,7 +1,13 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"/><img src="https://img.icons8.com/color/48/000000/walter-white.png" width="50px" height="50px"/>
+<img style="margin: 0 4px" align="left" alt="Ben's LinkedIn" width="100%" src="./images/banner.png?raw=true" />
 
-<a href="mailto:headkaze@gmail.com" target="_blank">
-  <img style="margin: 0 4px" align="left" alt="Ben's Email" width="24px" height="20px" src="./images/mail.svg?raw=true" />
+### Hey there <img src="https://github.githubassets.com/images/mona-loading-dark.gif" width="50px" height="50px"/>
+
+<a href="https://www.facebook.com/benbaker76/" target="_blank">
+  <img style="margin: 0 4px" align="left" alt="Ben's LinkedIn" width="24px" height="22px" src="./images/facebook.svg?raw=true" />
+</a>
+
+<a href="https://medium.com/@benbaker76" target="_blank">
+  <img style="margin: 0 4px" align="left" alt="Ben's LinkedIn" width="24px" height="22px" src="./images/medium.svg?raw=true" />
 </a>
 
 <a href="https://www.linkedin.com/in/benbaker76/" target="_blank">
@@ -12,25 +18,32 @@
   <img style="margin: 0 4px" align="left" alt="Ben Baker | Twitter" width="22px" height="22px" src="./images/twitter.svg?raw=true" />
 </a>
 
-<a href="https://github.com/sponsors/benbaker76" target="_blank">
-  <img style="margin: 0 4px" align="left" alt="Ben Baker | Sponsor" width="86px" height="24px" src="./images/github-sponsor.svg?raw=true" />
+<a href="https://github.com/benbaker76" target="_blank">
+  <img style="margin: 0 4px" align="left" alt="Ben Baker | Twitter" width="22px" height="22px" src="./images/github.svg?raw=true" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=benbaker76)
+<a href="https://baker76.com" target="_blank">
+  <img style="margin: 0 4px" align="left" alt="Ben Baker | Twitter" width="22px" height="22px" src="./images/web.svg?raw=true" />
+</a>
 
+<a href="mailto:headkaze@gmail.com" target="_blank">
+  <img style="margin: 0 4px" align="left" alt="Ben's Email" width="24px" height="20px" src="./images/mail.svg?raw=true" />
+</a>
+
+<!-- <a href="https://github.com/sponsors/benbaker76" target="_blank">
+  <img style="margin: 0 4px" align="left" alt="Ben Baker | Sponsor" width="86px" height="24px" src="./images/github-sponsor.svg?raw=true" />
+</a> -->
+
+<!-- ![](https://visitor-badge.glitch.me/badge?page_id=benbaker76) -->
+
+<br />
 <br />
 
 Hi, I'm **Ben Baker**, a DevOps / Embedded / Software engineer 🚀 from Australia 🇦🇺 and living in USA 🇺🇸, currently, I'm looking for **NEW OPPORTUNITIES** in DevOps and software development roles (incl., Distributed, Microservice and Cloud-based systems). Beside's programming, I enjoy traveling and reading.
 
-<br />
+Want to know more about me? Check out my [portfolio](https://baker76.com).
 
-**About Me:**
-
-- 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently practicing Golang and Micro Services;
-- 💬 Ask me about anything; I'm happy to help;
-- ℹ️ View my portfolio at https://baker76.com;
-- 📫 You can reach me [ben@baker76.com](mailto:ben@baker76.com);
+<img align="right" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=benbaker76&show_icons=true&theme=default" />
 
 <br />
 
@@ -63,8 +76,6 @@ Languages:
 <img style="margin: 0 10px" src="./images/x86.svg?raw=true" alt="x86 ASM" height="25px" width="25px"></img>
 <img style="margin: 0 10px" src="./images/risc-v.svg?raw=true" alt="RISC-V" height="25px" width="25px"></img>
 </span>
-
-<img align="right" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=benbaker76&show_icons=true&theme=default" />
 
 Front-end:
 <span>
