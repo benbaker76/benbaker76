@@ -46,11 +46,11 @@ Want to know more about me? Check out my [portfolio](https://baker76.com).
 <br>
 
 <a href="https://github.com/braydoncoyer">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benbaker76&show_icons=true&theme=dark" alt="Ben's GitHub Top Languages" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benbaker76&show_icons=true&theme=default&layout=compact" alt="Ben's GitHub Top Languages" />
 </a>
 
 <a href="https://github.com/braydoncoyer">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=benbaker76&show_icons=true&theme=dark" alt="Ben's GitHub Stats" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=benbaker76&show_icons=true&theme=default" alt="Ben's GitHub Stats" />
 </a>
 
 <br>
