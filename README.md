@@ -45,11 +45,11 @@ Want to know more about me? Check out my [portfolio](https://baker76.com).
 
 <br>
 
-<a href="https://github.com/braydoncoyer">
+<a href="https://github.com/benbaker76">
   <img align="center" style="margin: 4px 4px 4px 4px" src="https://github-readme-stats.vercel.app/api?username=benbaker76&show_icons=true&theme=default&hide_rank=true" alt="Ben's GitHub Stats" />
 </a>
 
-<a href="https://github.com/braydoncoyer">
+<a href="https://github.com/benbaker76">
   <img align="left" style="margin: 4px 4px 4px 4px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benbaker76&show_icons=true&theme=default&layout=compact" alt="Ben's GitHub Top Languages" />
 </a>
 
