@@ -26,7 +26,7 @@
   <img style="margin: 0 4px" align="left" alt="Website" width="22px" height="22px" src="./images/web.svg?raw=true" />
 </a>
 
-<a href="mailto:headkaze@gmail.com" target="_blank">
+<a href="mailto:ben@baker76.com" target="_blank">
   <img style="margin: 0 4px" align="left" alt="Email" width="24px" height="20px" src="./images/mail.svg?raw=true" />
 </a>
 
