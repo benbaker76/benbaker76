@@ -50,7 +50,7 @@ Want to know more about me? Check out my [portfolio](https://baker76.com).
 </a>
 
 <a href="https://github.com/benbaker76">
-  <img align="center" style="margin: 4px 4px 4px 4px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benbaker76&show_icons=true&theme=default&layout=compact" alt="Ben's GitHub Top Languages" />
+  <img align="center" style="margin: 4px 4px 4px 4px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benbaker76&show_icons=true&theme=default&layout=compact&hide=html" alt="Ben's GitHub Top Languages" />
 </a>
 
 <br>
