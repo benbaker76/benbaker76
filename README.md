@@ -41,7 +41,7 @@ Hi, I'm **Ben Baker**, a DevOps / Embedded / Software engineer 🚀 from Austral
 
 Want to know more about me? Check out my [portfolio](https://baker76.com).
 
-## &#x1f4c8; GitHub Stats
+<h4>📈 GitHub Stats</h4>
 
 <br>
 
@@ -52,6 +52,10 @@ Want to know more about me? Check out my [portfolio](https://baker76.com).
 <a href="https://github.com/benbaker76">
   <img align="center" style="margin: 4px 4px 4px 4px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benbaker76&show_icons=true&theme=default&layout=compact&hide=html" alt="Ben's GitHub Top Languages" />
 </a>
+
+<h4>💻 GitHub Trophies</h4>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=benbaker76&theme=onedark)](https://github.com/benbaker76/github-profile-trophy)
 
 <br>
 <br>
