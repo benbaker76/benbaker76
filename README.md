@@ -37,7 +37,7 @@
 <br>
 <br>
 
-Hi, I'm **Ben Baker**, a DevOps / Embedded / Software engineer 🚀 from Australia 🇦🇺 and living in USA 🇺🇸, currently, I'm interested in DevOps and software development roles (incl., Distributed, Microservice and Cloud-based systems). Besides programming, I enjoy spending time with family, tinkering with home automation and electronics.
+Hi, I'm **Ben Baker**, an AI / Embedded / Software engineer 🚀 from Australia 🇦🇺 and living in USA 🇺🇸, currently, I'm interested in DevOps and software development roles (incl., Distributed, Microservice and Cloud-based systems). Besides programming, I enjoy spending time with family, tinkering with home automation and electronics.
 
 Want to know more about me? Check out my [portfolio](https://baker76.com).
 
